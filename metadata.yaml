@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '1053'
     url: http://www.gutenberg.org/2009/agents/1053
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39106#Creation-Myths-of-Primitive-AmericaIn-relation-to-the-Religious-History-and-Mental-Developmen_
 gutenberg_issued: '2012-03-11'
 gutenberg_type: Text
 identifiers:
